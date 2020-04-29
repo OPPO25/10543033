@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-today is 2020/04/29 10543033.
+today is 2020/04/29 10543033. Now is 16:56
 [Link](url) and ![Image](src)
 ```
 
