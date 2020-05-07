@@ -9,3 +9,18 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8tuzFSXeKI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
+<TABLE border=1 bordercolor=800000 width=100%>
+
+<TR>
+<TD width=50>第１列，第１格</TD>
+<TD width=100>第１列，第２格</TD>
+<TD>第１列，第３格</TD>
+</TR>
+
+<TR>
+<TD width=50>第２列，第１格</TD>
+<TD width=100>第２列，第２格</TD>
+<TD>第２列，第３格</TD>
+</TR>
+
+</TABLE>
