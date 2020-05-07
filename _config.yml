@@ -6,6 +6,7 @@
 <body>
 <p>hello world. today is 2020.05.06.</p>
 <a href="test2.html">This is my test1.</a>
+<table style="border:3px #ea25f5 solid;" cellpadding="10" bordor'3'>
 <tr>
 <td>test1</td>
 <td>test2</td>
