@@ -8,14 +8,14 @@
 <a href="test2.html">This is my test1.</a>
 <table style="border:3px #ea25f5 solid;" cellpadding="10" bordor'3'>
 <tr>
-<td>test1</td>
-<td>test2</td>
+    <td>test1</td>
+    <td>test2</td>
 </tr>
 <tr>
-<td>test3</td>
-<td>test4</td>
+    <td>test3</td>
+    <td>test4</td>
 </tr>
-<td>test5</td>
-<td>test6</td>
+    <td>test5</td>
+    <td>test6</td>
 </tr>
 </table>
