@@ -7,5 +7,7 @@
 	<td><img src="james3.jpg" width="200" height="200"></td>
 	<td><img src="james3.jpg" width="200" height="200"></td>
 </tr>
-
+<button type="button">我是按鈕</button>
+<button type="button">我是按鈕</button>
+<button type="button">我是按鈕</button>
 </table>
