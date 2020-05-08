@@ -1,20 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>10543033</title>
-</head>
-<body>
-<p>hello world. today is 2020.05.06.</p>
-<a href="test2.html">This is my test1.</a>
+<table style="border:3px #cccccc solid;" cellpadding="10" border='1'>
 <tr>
-<td>test1</td>
-<td>test2</td>
+	<td>test1</td>
+	<td>test2</td>
 </tr>
 <tr>
-<td>test3</td>
-<td>test4</td>
+	<td>test3</td>
+	<td>test4</td>
 </tr>
-<td>test5</td>
-<td>test6</td>
+<tr>
+	<td>test5</td>
+	<td>test6</td>
 </tr>
 </table>
