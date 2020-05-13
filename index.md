@@ -1,17 +1,13 @@
-
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+<style>
+	body{
+		background-color:  #00BBFF;
+}
+</style>
 </head>
-<body>
-	<nav>
-  <a href="/html/">HTML</a> |
-  <a href="/css/">CSS</a> |
-  <a href="/js/">JavaScript</a> |
-  <a href="/jquery/">jQuery</a>
-</nav>
-<td><font size="20">Hello HTML5</font></td>
-	
-</body>
+
+<p>this is test4.</p>
 </html>
