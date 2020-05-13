@@ -1,15 +1,14 @@
-
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>10543033</title>
+	<title>10743014</title>
 </head>
 <style>
 	body {background-color: #FFFFA1;}
-	#b1{background-color: #33FFDD;}
-	#b2{background-color: #9955FF;}
-	#b3{background-color: #66FF66;}
-
+	#b1{background-color: #DB0000;}
+	#b2{background-color: #1AFF19;}
+	#b3{background-color: #00DBDB;}
+	.m {color:red; background:#000080;}
 </style>
 
 
@@ -21,7 +20,7 @@
     <a href="/js/">JavaScript</a> |
     <a href="/jquery/">jQuery</a>
 
-    <p>This is index page</p>
+    <p class="m">This is index page</p>
 	
 	<a href="test1.html"><input id="b1" type="button" value="我是按鈕1" style="width:120px;height:40px;font-size:20px;"></a><br><br>
 	<a href="test2.html"><input id="b2" type="button" value="我是按鈕2" style="width:120px;height:40px;font-size:20px;"></a><br><br>
