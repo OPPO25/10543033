@@ -1,30 +1,40 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>10743014</title>
+	<title>Document</title>
 </head>
-<style>
-	body {background-color: #FFFFA1;}
-	#b1{background-color: #DB0000;}
-	#b2{background-color: #1AFF19;}
-	#b3{background-color: #00DBDB;}
-	.m {color:red; background:#000080;}
-</style>
-
-
 <body>
-
-	<nav>
-    <a href="/html/">HTML</a> |
-    <a href="/css/">CSS</a> |
-    <a href="/js/">JavaScript</a> |
-    <a href="/jquery/">jQuery</a>
-
-    <p class="m">This is index page</p>
+	<div id="nav"></div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script> 
+		$("#nav").load("nav.html");
+	</script>
+	<p> this is page8.</p>
+<form method="get" action="">
+	<label for="phone">your name:</label><br><br>
+    <input type="text" name="id"></<br><br>
+    <label for="phone">your password:(8 digits)</label><br><br>
+    <input type="password" pattern="[a-zA-Z0-9]{8,}"></<br><br>
+    <label for="phone">your phone number</label><br><br>
+<input type="tel" id="phone" name="phone" placeholder="0912-123123" pattern="[0-9]{4}-[0-9]{6}"><br><br>
+<label for="phone">textarea:</label><br><br>
+<textarea style="width:300px;height:100px;"></textarea>
+<select name="YourLocation">
+　<option value="aaa">科管系</option>
+　<option value="bbb">醫管系</option>
+　<option value="ccc">行管系</option>
+　<option value="ddd">護理系</option>
+ <option value="ddd">醫放系</option>
+</select><br><br>
+<input type="radio" name="location" value="Taipei"> 0-30<br>
+<input type="radio" name="location" value="Taoyuan"> 31-60<br>
+<input type="radio" name="location" value="Taoyuan">61-100<br>
+<input type="checkbox" value="Travel" name="Interest"> I have a bike<br>
+<input type="checkbox" value="Movie" name="Interest"> I have a car<br>
+<input type="checkbox" value="Food" name="Interest"> I have boat
+<input type="submit" value="送出表單">
+</form>
 	
-	<a href="test1.html"><input id="b1" type="button" value="我是按鈕1" style="width:120px;height:40px;font-size:20px;"></a><br><br>
-	<a href="test2.html"><input id="b2" type="button" value="我是按鈕2" style="width:120px;height:40px;font-size:20px;"></a><br><br>
-	<a href="test3.html"><input id="b3" type="button" value="我是按鈕3" style="width:120px;height:40px;font-size:20px;"></a><br><br>
-</nav>
 </body>
 </html>
