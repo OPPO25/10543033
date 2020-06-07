@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<title>期末作業</title>
+	<embed src="music.m4a" loop="true" hidden="true" autostart="true">
+<style>
+	body{
+		font-family:標楷體;
+		}
+	table{
+		background:#FFF;
+		}
+</style>
+
+	</head>
+<body background="bg.jpg">
+<table align="center" width="1000" cellspacing="10" cellpadding="10">
+<tr><td bgcolor="#07abe8">
+<h1 align="center"><b><font style="font-size:300%;" id="p00">台東成功三仙台</font></b></h1>
+<h1></h1>
+</td></tr>
+<tr  bgcolor="#e89b07"><td align="center">
+		<a href="index.htm" style="color:lime;font-size:250%;">首頁</a>　　
+		<a href="po1.htm" style="color:lime;font-size:250%;">簡介</a>　　
+		<a href="po2.htm" style="color:lime;font-size:250%;">相簿</a>　
+		<a href="po3.htm" style="color:lime;font-size:250%;">地圖</a>　
+		<a href="po4.htm" style="color:red;font-size:250%;">影片</a>　
+</tr></td>
+<tr><td>
+	<iframe width="1000" height="600" src="https://www.youtube.com/embed/SePge9rdlrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+	<font size="5"><a href="https://www.youtube.com/watch?v=SePge9rdlrI">影片來源</a></font>
+</tr></td>
+</body>
+</html>
